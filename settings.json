@@ -9,8 +9,7 @@
 	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
-        "ownerNumber": "6281317549796",
-	"ownerNumberr": "6285900452749",
+	"ownerNumberr": ["6285900452749", "6281317549796"]
 	"ownername": "CHARLIN",
         "ownernamee": "REXXIN",
 	"botname":"Charlin Bot",
